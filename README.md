@@ -1,3 +1,3 @@
 # CCI
 
-Resolving problems for Cracking the Coding Interview book.
+Problem solving for the book Cracking the Coding Interview.
